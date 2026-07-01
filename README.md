@@ -1,0 +1,2 @@
+# DoodleIdleVersion
+DoodleIdleVersion.Json
